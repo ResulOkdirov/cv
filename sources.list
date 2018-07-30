@@ -1,0 +1,9 @@
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+deb http://ftp.it.debian.org/debian stable main contrib non-free
+deb-src http://ftp.it.debian.org/debian stable main contrib non-free
+
+deb http://ftp.debian.org/debian/ wheezy-updates main contrib non-free
+deb-src http://ftp.debian.org/debian/ wheezy-updates main contrib non-free
+
+deb http://security.debian.org/ wheezy/updates main contrib non-free
+deb-src http://security.debian.org/ wheezy/updates main contrib non-free
